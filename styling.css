@@ -1,16 +1,21 @@
 html {
 	height: 100%;
-	background: radial-gradient(circle, #fff, #ccc);
+	/*background: radial-gradient(circle, #fff, #ccc);
 	-webkit-background: radial-gradient(circle, #fff, #ccc);
 	-o-background: radial-gradient(circle, #fff, #ccc);
-	-moz-background: radial-gradient(circle, #fff, #ccc);
+	-moz-background: radial-gradient(circle, #fff, #ccc);*/
+}
+
+h1, p {
+	text-align: center;
+	font-family: cursive, sans-serif;
 }
 
 #container {
 	height: 400px;
 	width: 550px;
 	background-color: #9dd2ea;
-	margin: 100px auto;
+	margin: 50px auto;
 	padding: 20px;
 	border-radius: 10px;
 	box-shadow: 0px 4px 0px 0px #009de4;
