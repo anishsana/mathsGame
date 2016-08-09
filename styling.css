@@ -1,5 +1,6 @@
 html {
 	height: 100%;
+	background-color: #18BC9C;
 	/*background: radial-gradient(circle, #fff, #ccc);
 	-webkit-background: radial-gradient(circle, #fff, #ccc);
 	-o-background: radial-gradient(circle, #fff, #ccc);
@@ -9,6 +10,7 @@ html {
 h1, p {
 	text-align: center;
 	font-family: cursive, sans-serif;
+	color: white;
 }
 
 #container {
